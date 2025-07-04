@@ -1,6 +1,7 @@
 {
   "name": "emojimoodchanger",
   "version": "0.1.0",
+  "homepage": "https://muhita13.github.io/EmojiMoodChanger-projects-in-REACT/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
